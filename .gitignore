@@ -1,0 +1,11 @@
+.env.local
+.env
+
+venv/
+__pycache__/
+*.py[cod]
+
+input.wav
+reply.wav
+log.txt
+cost_log.csv
